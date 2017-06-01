@@ -2,8 +2,29 @@
 <html lang="es">
 	<head>
 		<meta charset="utf-8"/>
-		<title></title>
+        <link rel="shortcut icon" href="img/candado.png">
+		<link rel="stylesheet" type="text/css" media="screen" href="css/estilos.css"/>
+		<title>Acceso Seguro</title>
+        <script src="js/script.js"></script>
 	</head>
-	<body>
+	<body id="entrada">
+        <form id="form" action="#" method="post">
+            <fieldset id="cuerpo">
+                <legend><img id="candado" src="img/candado.png" alt="candado"> Formulario de Acceso</legend>
+                <p>
+                    <span>Usuario:</span>
+                    <span><input type="text" id="user"></span>
+                </p>
+                <p>
+                    <span>Contraseña:</span>
+                    <span><input type="password" id="pass"></span>
+                </p>
+                <p>
+                    <span><input type="button" value="Enviar" id="enviar"></span>
+                    <span><input type="reset"  value="Limpiar"></span>
+                </p>
+            </fieldset>
+        </form>
+        <img id="imagen" src="img/pixel.jpg">
 	</body>
 </html>
