@@ -1,0 +1,57 @@
+@font-face {
+    font-family:miFuente;
+    src:url("../font/matrix.ttf");
+}
+#entrada {
+    background-image: url("../img/barrotes.png");
+}
+#cuerpo {
+	width:200px;
+	margin:100px auto;
+	padding:15px 25px;
+	background-color: slategray;
+	border:2px outset black;
+}
+#cuerpo > legend {
+	background-color:white;
+	border:1px inset black;
+	padding:0px 5px 0px 5px;
+    font-size: 14px;
+}
+#cuerpo > legend > img {
+    padding-top: 2px;
+    margin-bottom: -2px;
+}
+#cuerpo > p {
+	display:table;
+	margin:5px auto auto auto;
+	width:100%;
+}
+#cuerpo > p > span {
+	display:table-cell;
+	width:50%;
+    color: white;
+}
+#cuerpo > p > span > input {
+	width:100px;
+}
+#cuerpo > p:last-child {
+	margin:20px auto 0px auto;
+}
+#cuerpo > p:last-child  > span > input {
+	margin:0px 10px 0px 10px;
+	width:80px;
+}
+#acceso {
+    background-image: url("../img/matrix.gif");
+    font-family:miFuente;
+    color:white;
+}
+#acceso > h1 {
+    text-align: center;
+    font-size: 70px;
+}
+#acceso > p {
+    text-align: center;
+    font-size: 40px;
+}
