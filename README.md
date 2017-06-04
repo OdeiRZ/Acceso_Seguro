@@ -1,4 +1,4 @@
-Acceso Seguro 0.9
+Acceso Seguro 0.91
 ================================
 
 Aplicación web usada para controlar el acceso seguro a una plataforma o contenido externo, desarrollada 
@@ -15,6 +15,6 @@ del contenido de los directorios más delicados de nuestro sitio, como la carpet
 una demo de prueba que corresponde al usuario 'odei-pagina'.
 
 ## Licencia
-Esta aplicación se ofrece bajo licencia [AGPL versión 3].
+Esta aplicación se ofrece bajo licencia [GPL versión 3].
 
-[AGPL versión 3]: http://www.gnu.org/licenses/agpl.html
+[GPL versión 3]: https://www.gnu.org/licenses/gpl-3.0.en.html
