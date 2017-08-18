@@ -14,12 +14,16 @@ Para evitar problemas de seguridad deberemos de configurar nuestro página y/o s
 del contenido de los directorios más delicados de nuestro sitio, como la carpeta 'server' e 'img'. El programa viene con 
 una demo de prueba que corresponde al usuario 'odei-pagina'.
 
+Para cualquier referencia relacionada con el sitio, podemos ver la aplicación desplegada 
+visitando el siguiente [enlace].
+
 ## Requisitos
 - Navegador Web [Chrome], [Firefox], [Opera], [Microsoft Edge], etc..
 
 ## Licencia
 Esta aplicación se ofrece bajo licencia [GPL versión 3].
 
+[enlace]: https://odeirz.github.io/Acceso_Seguro/public/
 [Chrome]: https://www.google.es/chrome/browser/desktop/index.html
 [Firefox]: https://www.mozilla.org/es-ES/firefox/new/
 [Opera]: http://www.opera.com/es
